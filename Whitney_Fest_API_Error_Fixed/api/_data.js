@@ -100,8 +100,8 @@ module.exports = {
         ],
         [
           "After movie",
-          "Uber home + McDonald’s talk with Aghchaya",
-          "After the movie, Uber back toward home. If stopping at McDonald’s, have the no-complaining talk with Aghchaya, grab a bite if hungry, and head home.",
+          "Uber home",
+          "After the movie, Uber back toward home.",
           "124 Whitney Avenue Hamilton Ontario",
           "Uber"
         ]
