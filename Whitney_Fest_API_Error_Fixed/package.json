@@ -1,0 +1,9 @@
+{
+  "name": "hamilton-weekend",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Hamilton Weekend Vercel site",
+  "engines": {
+    "node": ">=20"
+  }
+}
