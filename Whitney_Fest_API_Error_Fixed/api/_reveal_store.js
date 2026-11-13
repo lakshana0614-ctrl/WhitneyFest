@@ -6,7 +6,7 @@ const IDS = ['thursday', 'friday', 'saturday', 'sunday'];
 // false = itinerary stays hidden
 
 const revealed = {
-  thursday: false,
+  thursday: true,
   friday: false,
   saturday: false,
   sunday: false
